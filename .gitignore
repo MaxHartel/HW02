@@ -1,0 +1,7 @@
+/.DS_Store
+/.vscode
+/include
+/lib
+/main.o.dSYM
+/output
+/sshell.o.dSYM
